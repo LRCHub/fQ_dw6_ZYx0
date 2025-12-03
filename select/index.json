@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ベテルギウス",
+  "base_artist": "Yuuri",
+  "createdAt": "2025-12-03T04:58:22.169302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ベテルギウス",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/01_ベテルギウス_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_ベテルギウス_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_ベテルギウス_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ベテルギウス",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/04_ベテルギウス_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ベテルギウス - BETELGEUSE",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/05_ベテルギウス_-_BETELGEUSE_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ベテルギウス -オーケストラアレンジver.-",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/06_ベテルギウス_-オーケストラアレンジver.-_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ベテルギウス (BETELGEUSE)",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/07_ベテルギウス_(BETELGEUSE)_優里.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ベテルギウス",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/08_ベテルギウス_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ベテルギウス",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/09_ベテルギウス_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ベテルギウス- Over the GLORY DAYS -",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/10_ベテルギウス-_Over_the_GLORY_DAYS_-_コブクロ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_02_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_03_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_04_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_05_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_06_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_07_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "BETELGEUSE",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_08_BETELGEUSE_優里.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_09_ベテルギウス_優里.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_10_ベテルギウス_優里.txt"
+    }
+  ]
+}
