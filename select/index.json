@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ベテルギウス",
-  "base_artist": "Yuuri",
-  "createdAt": "2025-12-03T04:58:22.169302Z",
+  "base_artist": "優里",
+  "createdAt": "2026-02-22T21:38:51.970237Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -91,78 +91,6 @@
       "artist": "優里",
       "has_synced": false,
       "path": "select/pl_01_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_02_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_03_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_04_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_05_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_06_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_07_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "BETELGEUSE",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_08_BETELGEUSE_優里.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_09_ベテルギウス_優里.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "ベテルギウス",
-      "artist": "優里",
-      "has_synced": false,
-      "path": "select/pl_10_ベテルギウス_優里.txt"
     }
   ]
 }
